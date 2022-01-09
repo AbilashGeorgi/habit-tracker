@@ -1,0 +1,1 @@
+INSERT INTO user_detail(name, roles, user_name, password, active) VALUES('Abilash', 'ROLE_USER', 'ageorgi', 'password', true);
